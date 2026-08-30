@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large original datasets
+data/raw/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Secrets and environment variables
+.env
+.streamlit/secrets.toml
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Large processed text datasets
+data/processed/AAPL_news_scored.csv
+data/processed/financial_news_clean.csv
