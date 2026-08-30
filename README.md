@@ -6,7 +6,7 @@ The project includes data collection, preprocessing, NLP sentiment analysis, tim
 
 ## Live Application
 
-The Streamlit deployment link will be added here after deployment.
+[Open the live Streamlit dashboard](https://raginiboya-financial-market-prediction.streamlit.app/)
 
 ## Project Objective
 
@@ -304,7 +304,7 @@ Financial_Market_Prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/raginiboya/financial-market-prediction.git
 cd Financial_Market_Prediction
 ```
 
